@@ -4,7 +4,7 @@
          width="45" /> I'm Umer Sarfraz </h1>
 
 <!--
-**UmerSarfraz5557/UmerSarfraz5557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UmerSarfraz5557/UmerSarfraz5557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I have a cup of tea beside me almost every time.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sarfraz-53676a17a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sarfraz-53676a17a/)
 
 [<img  src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" 
          alt="Waving hand animated gif"
